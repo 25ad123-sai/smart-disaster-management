@@ -1,0 +1,6 @@
+{
+  "name": "Smart Disaster Management System (SDMS)",
+  "description": "Connectivity-resilient disaster response platform integrating IoT sensing, GIS spatial analysis, AI prediction, misinformation filtering, drone assessment, and cloud-edge coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
