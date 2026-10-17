@@ -1,8 +1,2 @@
-node_modules/
-build/
-dist/
-coverage/
-.DS_Store
-*.log
-.env*
-!.env.example
+CrisisMMD_v2.0.tar.gz
+CrisisMMD_v2.0/
